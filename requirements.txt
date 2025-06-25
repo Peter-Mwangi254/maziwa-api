@@ -1,0 +1,6 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth[with_social]
+django-allauth
+gunicorn
